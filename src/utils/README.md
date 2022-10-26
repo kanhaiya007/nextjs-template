@@ -1,0 +1,1 @@
+Folder contains utility functions shared accross the app
